@@ -11,6 +11,10 @@
 # production
 /build
 
+# editor config
+.prettierrc
+.editorconfig
+
 # misc
 .DS_Store
 .env
