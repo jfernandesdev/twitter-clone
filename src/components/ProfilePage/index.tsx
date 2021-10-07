@@ -11,6 +11,8 @@ import {
   Followage
 } from './styles';
 
+import Feed from '../Feed';
+
 const ProfilePage: React.FC = () => {
   return (
     <Container>
@@ -22,9 +24,7 @@ const ProfilePage: React.FC = () => {
         <EditButton outlined>Editar perfil</EditButton>
         <h1>Jeferson Fernandes</h1>
         <h2>@jfernandesdev</h2>
-
         <p>Front-end Developer</p>
-
         <ul>
           <li>
             <LocationIcon />
@@ -35,7 +35,6 @@ const ProfilePage: React.FC = () => {
             Nascido(a) em 21 de setembro de 1996
           </li>
         </ul>
-
         <Followage>
           <span>
             seguindo <strong>21</strong>
@@ -45,6 +44,8 @@ const ProfilePage: React.FC = () => {
           </span>
         </Followage>
       </ProfileData>
+
+      <Feed />
     </Container>
   );
 }
