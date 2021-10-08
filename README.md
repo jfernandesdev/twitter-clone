@@ -1,6 +1,6 @@
 # Twitter Clone <img src='https://github.com/jfernandesdev/twitter-clone/blob/24e228e87ec8a51fda49c1e11e41f1291da210b1/public/favicon.png' width='27px' />
 
-Projeto Web desenvolvido para fins didáticos. TEMA: 'Twitter clone' 🐦🗨
+Projeto Web desenvolvido para fins didáticos. TEMA: 'Twitter clone' 🗨
 
 ### Funcionalidades:
 
@@ -19,7 +19,16 @@ Projeto Web desenvolvido para fins didáticos. TEMA: 'Twitter clone' 🐦🗨
 
 ### Desktop (screenshot):
 
+|Página Inicial |Feed 
+| --- | --- |
+<img src="https://github.com/jfernandesdev/twitter-clone/blob/6e51b47fa9d6297679b97695ce95a6588ac895e8/public/layout/layout-1.png" /> | <img src="https://github.com/jfernandesdev/twitter-clone/blob/6e51b47fa9d6297679b97695ce95a6588ac895e8/public/layout/layout-2png.png" /> 
+
+
 ### Mobile e Tablet (screenshot):
+
+| Home Mobile | Feed Mobile | Home Tablet
+| --- | --- | --- |
+<img src="https://github.com/jfernandesdev/twitter-clone/blob/6e51b47fa9d6297679b97695ce95a6588ac895e8/public/layout/layout-mobile-1.png" width='275px' /> | <img src="https://github.com/jfernandesdev/twitter-clone/blob/6e51b47fa9d6297679b97695ce95a6588ac895e8/public/layout/layout-mobile-2.png" width='275px' /> | <img src="https://github.com/jfernandesdev/twitter-clone/blob/6e51b47fa9d6297679b97695ce95a6588ac895e8/public/layout/layout-tablet-1.png" width='375px'/> 
 
 ### Dê uma olhada como o projeto ficou! 👀
 
