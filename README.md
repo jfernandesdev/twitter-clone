@@ -32,7 +32,7 @@ Projeto Web desenvolvido para fins didáticos. TEMA: 'Twitter clone' 🗨
 
 ### Dê uma olhada como o projeto ficou! 👀
 
-(Em breve ...)
+https://twitterclone-jfernandesdev.netlify.app/
 
 <br>
 
