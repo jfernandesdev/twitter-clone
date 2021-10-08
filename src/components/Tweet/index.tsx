@@ -35,6 +35,7 @@ const Tweet: React.FC = () => {
             <time>07 de out</time>
           </Header>
 
+          {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
           <Description>Hello world! I am a description 🤘</Description>
           <ImageContent />
 
