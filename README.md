@@ -2,7 +2,7 @@
 
 Projeto Web desenvolvido para fins didáticos. TEMA: 'Twitter clone' 🗨
 
-### Funcionalidades:
+### Descrição:
 
 - [x] Reprodução da interface inicial do Twitter;
 - [x] Menu lateral, feed de tweets, sidebar de recomendações e notícias do momento;
