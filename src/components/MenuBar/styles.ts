@@ -39,11 +39,6 @@ export const Topside = styled.div`
 export const Logo = styled(TwitterIcon)`
   width: 32px;
   height: 32px;
-
-  > path {
-    fill: var(--twitter);  
-  }
-
   margin-bottom: 20px;
   margin-top: 10px;
 `;
